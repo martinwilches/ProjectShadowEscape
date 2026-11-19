@@ -11,8 +11,15 @@ offset_bottom = 720.0
 color = Color(0.11979789, 0.11979789, 0.11979789, 1)
 
 [node name="Title" type="Label" parent="." unique_id=602338285]
-offset_left = 562.0
-offset_top = 352.0
-offset_right = 769.0
-offset_bottom = 375.0
-text = "PROJECT: SHADOW ESCAPE"
+offset_left = 568.0
+offset_top = 17.0
+offset_right = 701.0
+offset_bottom = 40.0
+text = "SHADOW ESCAPE"
+
+[node name="PressEnter" type="Label" parent="." unique_id=1955085900]
+offset_left = 550.0
+offset_top = 346.0
+offset_right = 729.0
+offset_bottom = 369.0
+text = "PRESS ENTER TO START"
